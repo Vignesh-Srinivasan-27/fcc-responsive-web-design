@@ -52,7 +52,7 @@ playing-cards/
 
 ## 🔗 Live Demo
 
-(Add your GitHub Pages link here once deployed)
+(https://vignesh-srinivasan-27.github.io/fcc-responsive-web-design/playing-cards/)
 
 ---
 
